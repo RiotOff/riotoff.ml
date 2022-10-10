@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="ru">
+<title>Ой! Такой страницы нет!</title>
+<head>
+    </style>
+</head>
+<meta content="#ff4444" data-react-helmet="true" name="theme-color" />
+<link rel="icon" href="logo.png">
+<link rel="stylesheet" href="css/bg.css">
+<link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="css/silka.css">
+<link rel="stylesheet" href="css/svg.css">
+<style>
+    #home:before {
+        position: absolute;
+        content: "";
+        width: 100%;
+        border-bottom: 3px solid rgb(86, 23, 128);
+        border-radius: 2px;
+        transition: width 0.3s ease-in-out, left 0.3s ease-in-out;
+        left: 0%;
+        bottom: 25px;
+    }
+
+    #menu>li>#home {
+        color: rgb(88, 38, 121);
+    }
+
+</style>
+</head>
+
+<body>
+    <div class="navbar">
+        <!-- <img src="logo.png" class="logo-img" alt="Logo"> -->
+        <nav>
+            <span id="log">riotoff.ml</span>
+            <div class="pc">
+                <div class="pb" id="mb"></div>
+            </div>
+
+        </nav>
+    </div>
+    </div>
+
+    <div class="main">
+        <div class="sites">
+                <div class="bord">Данной страницы не существует!</div>
+                <div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+
+
+    <div class="copyright">© 2022 RIOTOFF</div>
+
+    <script>
+        window.onscroll = function () { scroll() };
+
+        function scroll() {
+            let winScroll = document.body.scrollTop || document.documentElement.scrollTop;
+            let height = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+            let scrolled = (winScroll / height) * 100;
+            document.getElementById("mb").style.width = scrolled + "%";
+        }
+        
+    </script>
+
+</body>
+
+</html>
