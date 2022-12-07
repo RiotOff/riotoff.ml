@@ -5,7 +5,7 @@
 ## 🧦 Some notes:
 - 🖤 That's not official repo, official repository is https://github.com/mideev/mideev-ru
 - 💛 I'm not big coder what can do much things, am just doing it for you!
-- 🤍 If you have any questions, just contact me with Discord: RIOTOFF#3611
+- 🤍 If you have any questions, just contact me with Discord: ! RIOTOFF#0001
 
 ### Authors:
 [![MiDeev](https://avatars.githubusercontent.com/u/100193651?v=4&size=200)](https://mideev.ru)
