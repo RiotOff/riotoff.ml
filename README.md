@@ -3,7 +3,7 @@
 # ✅ riotoff.ml - free site by the RiotOff.
 ![](https://img.shields.io/github/downloads/RiotOff/riotoff.ml/total?color=black&label=DOWNLOADS&logo=github&logoColor=black&style=for-the-badge)
 ## 🧦 Some notes:
-- 🖤 That's not official repo, official repository is https://github.com/mideev/mideev-ru
+- 🖤 That is not official repo, official repository is https://github.com/mideev/mideev-ru
 - 💛 I'm not big coder what can do much things, am just doing it for you!
 - 🤍 If you have any questions, just contact me with Discord: `! RIOTOFF#0001`
 
